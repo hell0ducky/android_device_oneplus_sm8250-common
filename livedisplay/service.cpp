@@ -35,7 +35,6 @@ using ::vendor::lineage::livedisplay::V2_0::sdm::SDMController;
 using ::vendor::lineage::livedisplay::V2_1::IAntiFlicker;
 using ::vendor::lineage::livedisplay::V2_1::IPictureAdjustment;
 using ::vendor::lineage::livedisplay::V2_1::implementation::AntiFlicker;
-using ::vendor::lineage::livedisplay::V2_1::implementation::DisplayModes;
 using ::vendor::lineage::livedisplay::V2_1::implementation::SunlightEnhancement;
 
 int main() {
