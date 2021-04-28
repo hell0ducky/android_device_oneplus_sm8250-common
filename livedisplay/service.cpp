@@ -35,11 +35,8 @@ using ::vendor::lineage::livedisplay::V2_0::sdm::SDMController;
 using ::vendor::lineage::livedisplay::V2_1::IAntiFlicker;
 using ::vendor::lineage::livedisplay::V2_1::IPictureAdjustment;
 using ::vendor::lineage::livedisplay::V2_1::implementation::AntiFlicker;
-<<<<<<< HEAD
 using ::vendor::lineage::livedisplay::V2_1::implementation::DisplayModes;
-=======
 using ::vendor::lineage::livedisplay::V2_1::implementation::SunlightEnhancement;
->>>>>>> de5498ef... sm8250-common: livedisplay: Rip out IDisplayModes
 
 int main() {
     status_t status = OK;
